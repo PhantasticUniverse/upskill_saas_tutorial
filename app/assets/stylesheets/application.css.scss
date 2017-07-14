@@ -33,6 +33,22 @@
    border: none;
  }
  
+ .navbar-default .navbar-brand {
+   color: rgba(0, 0, 0, 0.84);
+ }
+ 
+ .navbar-default .navbar-nav > li > a {
+   color: rgba(0, 0, 0, 0.84);
+ }
+ 
+ .navbar-default .navbar-brand:hover {
+   color: rgba(0, 0, 0, 0.55);
+ }
+ 
+ .navbar-default .navbar-nav > li > a:hover {
+   color: rgba(0, 0, 0, 0.55);
+ }
+ 
   .home-callout {
    padding-top: 50px;
    padding-bottom: 100px;
